@@ -32,14 +32,16 @@ This message will self destruct in 5 seconds.
 //THis is one line of work.
 
 
+
+
 //: ## Step 2
 //: Place the above constants inside an array. Declare this array as a constant as well.
 
 
-
+dsfwergv
 //: ## Step 3
 //: Create a function that calculates the total number of compromised agents. Inside the function, iterate over the array of agents to determine which ones are compromised. Return the total count.
-
+wdVRDC
 
 
 //: ## Step 4
